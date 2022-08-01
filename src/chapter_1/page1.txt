@@ -1,5 +1,6 @@
 The new page
 James bond is cool
+NOW NOT VERY COOL
 our new friend
 
 boolean projects
