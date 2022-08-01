@@ -6,3 +6,5 @@ THİS ONE ALSO MADE CHAGES SEE IT ON GITHUB?
 
 we are gonno do firs commit
 MADE CHANGES BEFORE COMMIT
+
+for the new branch
