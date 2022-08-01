@@ -5,3 +5,5 @@ DEDİKYA NOT COOL
 our new friend
 
 boolean projects
+
+somthing changed IGNORED
